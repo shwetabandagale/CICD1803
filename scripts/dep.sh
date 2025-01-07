@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo yum install -y Apache2
-rm index.html
+sudo yum install -y apache2
+rm var/www/html/index.html
